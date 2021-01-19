@@ -1,4 +1,4 @@
-Flappy Bird Automation Game
+Flappy Bird Automation Game:
 This repository contains the ROS solution for the JohsBL/flappy_automation_test.
 
 
